@@ -1,2 +1,2 @@
-. 
+
 Meu primeiro projeto com GIT! 
